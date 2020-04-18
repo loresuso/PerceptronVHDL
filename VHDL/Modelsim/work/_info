@@ -1,0 +1,496 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/susin/Desktop/Unipi/Magistrale/Electronics and communication systems/Fanucci/Lab/ddfs/ModelSim
+Eafunit
+Z0 w1576684444
+Z1 DPx4 work 5 utils 0 22 Di9aAC[EI1O;]8ghSgSgh3
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/susin/Desktop/VHDL project/VHDL/Modelsim
+Z6 8C:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd
+Z7 FC:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd
+l0
+L6
+VaDH8aX835Yj]ZE>Cl:JY:3
+!s100 ag7UU0Z5G>;<hd4[b=<Tg3
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1576926601
+!i10b 1
+Z10 !s108 1576926601.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd|
+Z12 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 6 afunit 0 22 aDH8aX835Yj]ZE>Cl:JY:3
+l19
+L15
+VB@hBHbgLFOLnZ26cE46hL3
+!s100 C`V6eSZSLjBl0RGnRH0`^3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eafunittb
+Z15 w1576675912
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd
+Z17 FC:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd
+l0
+L6
+VV[ADE0k;Vb<IGz5KooG@T2
+!s100 5m0U1k8Mj@@D5AS]8A_b?0
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd|
+Z19 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 8 afunittb 0 22 V[ADE0k;Vb<IGz5KooG@T2
+l27
+L9
+VlLiB3]WS0]z7cJOM[eNG82
+!s100 Mfe>Bf:]Hkkd[hhX`3W?]2
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Edffregister
+Z20 w1576164785
+R3
+R4
+R5
+Z21 8C:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd
+Z22 FC:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd
+l0
+L4
+VUn;0JzzOB`jBUA3_^RAgX2
+!s100 59nNVL0HmBd8F1276UMjW0
+R8
+32
+Z23 !s110 1576926600
+!i10b 1
+Z24 !s108 1576926600.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd|
+Z26 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd|
+!i113 1
+R13
+R14
+Artl
+R3
+R4
+DEx4 work 11 dffregister 0 22 Un;0JzzOB`jBUA3_^RAgX2
+l20
+L15
+V=:>2=la1Ch=HR3cAV9>>:1
+!s100 3=OSl]=c^;zDM?Ai`n_KQ1
+R8
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R13
+R14
+Einputregisters
+Z27 w1576660708
+R1
+R3
+R4
+R5
+Z28 8C:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd
+Z29 FC:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd
+l0
+L5
+Vk3ja?37f<dMiWGf2QB:E92
+!s100 K_f:SJb[P]f?VBjED^7Cm2
+R8
+32
+R9
+!i10b 1
+R10
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd|
+Z31 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R3
+R4
+DEx4 work 14 inputregisters 0 22 k3ja?37f<dMiWGf2QB:E92
+l27
+L14
+VFj7E0LR`b=>UP12UQKZIn0
+!s100 SWz0d@UzWXIkMNlOc2;gg2
+R8
+32
+R9
+!i10b 1
+R10
+R30
+R31
+!i113 1
+R13
+R14
+Eperceptron
+Z32 w1576842117
+R1
+R2
+R3
+R4
+R5
+Z33 8C:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd
+Z34 FC:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd
+l0
+L6
+V]5bKZ5ZCza_?_Oin=Nl>g3
+!s100 UZj5mAE[hHW09V6hQ;?R[1
+R8
+32
+R9
+!i10b 1
+R10
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd|
+Z36 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 10 perceptron 0 22 ]5bKZ5ZCza_?_Oin=Nl>g3
+l75
+L17
+VjhSPcF1Aje_QzMljWU0730
+!s100 [;4n:JJ<DFEP2CEE9=eOB2
+R8
+32
+R9
+!i10b 1
+R10
+R35
+R36
+!i113 1
+R13
+R14
+Eperceptrontb
+Z37 w1576833016
+R1
+R2
+R3
+R4
+R5
+Z38 8C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd
+Z39 FC:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd
+l0
+L6
+VCC;oAH3e`:KK=bbZXM>RR2
+!s100 H=:YZKDYnCS_L]HJ=hUgV2
+R8
+32
+R9
+!i10b 1
+R10
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd|
+Z41 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 12 perceptrontb 0 22 CC;oAH3e`:KK=bbZXM>RR2
+l32
+L9
+VS;TS6Ji2j:hh7YHnL`3G?2
+!s100 jL[DW=@ImTTXhj>o5@@lO3
+R8
+32
+R9
+!i10b 1
+R10
+R40
+R41
+!i113 1
+R13
+R14
+Eperceptronwrapper
+Z42 w1576844050
+R1
+R2
+R3
+R4
+R5
+Z43 8C:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd
+Z44 FC:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd
+l0
+L6
+V3AWhAP12eG_MOinJb]88k2
+!s100 [jke@dmaXbffB00A]3egf0
+R8
+32
+R9
+!i10b 1
+R10
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd|
+Z46 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 17 perceptronwrapper 0 22 3AWhAP12eG_MOinJb]88k2
+l32
+L17
+VU1jhRo<U6N`eBRojiIY9Y0
+!s100 7DK1@HbSDfFh2lQ?C6_223
+R8
+32
+R9
+!i10b 1
+R10
+R45
+R46
+!i113 1
+R13
+R14
+Eperceptronwrappertb
+Z47 w1576844261
+R1
+R2
+R3
+R4
+R5
+Z48 8C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd
+Z49 FC:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd
+l0
+L6
+VVfIG:o]zL8:ZS<2?_kQ=a3
+!s100 FlBFFhNo;D2e:fAmz_XD>1
+R8
+32
+R9
+!i10b 1
+R10
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd|
+Z51 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+Z52 DEx4 work 19 perceptronwrappertb 0 22 VfIG:o]zL8:ZS<2?_kQ=a3
+l28
+L9
+Z53 V]FNRZjj0:]5Boej10]ien2
+Z54 !s100 ZzSf[nECdYK;Kz>nbV3JQ2
+R8
+32
+R9
+!i10b 1
+R10
+R50
+R51
+!i113 1
+R13
+R14
+Esopunit
+Z55 w1576680277
+R1
+R2
+R3
+R4
+R5
+Z56 8C:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd
+Z57 FC:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd
+l0
+L6
+VbgC@O_4V]CU_FP>>7Sk=V2
+!s100 8I^YCOh;HEb?iJM1=d7FY2
+R8
+32
+R9
+!i10b 1
+R10
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd|
+Z59 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 7 sopunit 0 22 bgC@O_4V]CU_FP>>7Sk=V2
+l32
+L17
+V_f@MgOQSJ<Iz>TVR19`kI1
+!s100 UjT[WiSE3mR=PmX]g6F6_0
+R8
+32
+R9
+!i10b 1
+R10
+R58
+R59
+!i113 1
+R13
+R14
+Esopunittb
+Z60 w1576673944
+R1
+R2
+R3
+R4
+R5
+Z61 8C:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd
+Z62 FC:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd
+l0
+L6
+VN[dYKDK8`6=WiU:8Gzz::2
+!s100 6V8hS:GHgJ26C4[Ho5j_13
+R8
+32
+R9
+!i10b 1
+R10
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd|
+Z64 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 9 sopunittb 0 22 N[dYKDK8`6=WiU:8Gzz::2
+l27
+L10
+VPAH@1B9n2>Re2OJ55>n7a1
+!s100 9nX9_ZE7LCNA:_1GI<LO[2
+R8
+32
+R9
+!i10b 1
+R10
+R63
+R64
+!i113 1
+R13
+R14
+Putils
+R3
+R4
+w1576842813
+R5
+8C:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd
+FC:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd
+l0
+L4
+VDi9aAC[EI1O;]8ghSgSgh3
+!s100 :9e@dTUHF?2lHLGEhnL7R3
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd|
+!s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd|
+!i113 1
+R13
+R14
+Eweightregisters
+Z65 w1576660720
+R1
+R3
+R4
+R5
+Z66 8C:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd
+Z67 FC:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd
+l0
+L5
+V>X_bHl541lbJ`fFl93@=B0
+!s100 4OUXl>8]]<8hUBXIX=mm41
+R8
+32
+R9
+!i10b 1
+R10
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd|
+Z69 !s107 C:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd|
+!i113 1
+R13
+R14
+Artl
+R1
+R3
+R4
+DEx4 work 15 weightregisters 0 22 >X_bHl541lbJ`fFl93@=B0
+l29
+L16
+V?`4oHT3QFFZGckgi^oh=>1
+!s100 O?]R@JQi>;A[<S?RU3Chf3
+R8
+32
+R9
+!i10b 1
+R10
+R68
+R69
+!i113 1
+R13
+R14

@@ -1,0 +1,54 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use work.utils.all;
+
+entity WeightRegisters is
+  port (
+    clk     : in std_logic ;
+    reset   : in std_logic ;
+    w       : in weights   ;
+    w_out   : out weights  ;
+	bias 	: in std_logic_vector(bw - 1 downto 0);  
+	bias_out 	: out std_logic_vector(bw - 1 downto 0) 
+  ) ;
+end WeightRegisters ;
+
+architecture rtl of WeightRegisters is
+
+    component DFFregister is
+        generic( Nbit : positive ) ; 
+        port (
+            reset	: in std_logic ;
+            clk	    : in std_logic ;
+            en	    : in std_logic ;
+            di	    : in std_logic_vector(Nbit-1 downto 0);
+            do	    : out std_logic_vector(Nbit-1 downto 0)
+        );
+    end component;
+
+begin
+
+    GEN_WEIGHT:
+    for i in 0 to N_in - 1 generate
+        WEIGHT_DFF : DFFregister
+        generic map (Nbit => bw)
+        port map (
+            reset   => reset, 
+            clk     => clk, 
+            en      => '1', 
+            di      => w(i), 
+            do      => w_out(i)
+        );
+    end generate GEN_WEIGHT;
+
+	BIAS_DFF :DFFregister
+	generic map (Nbit => bw) -- bias is also on bw bit 
+	port map (
+		reset   => reset, 
+        clk     => clk, 
+        en      => '1', 
+        di      => bias, 
+        do      => bias_out
+    );
+
+end architecture ; -- rtl

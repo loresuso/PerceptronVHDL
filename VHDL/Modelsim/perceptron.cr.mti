@@ -1,0 +1,114 @@
+{C:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/SOPunit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity SOPunit
+-- Compiling architecture rtl of SOPunit
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/Perceptron.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity Perceptron
+-- Compiling architecture rtl of Perceptron
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/PerceptronWrapper.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity PerceptronWrapper
+-- Compiling architecture rtl of PerceptronWrapper
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/tb/AFunitTB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity AFunitTB
+-- Compiling architecture test of AFunitTB
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/DFFregister.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFFregister
+-- Compiling architecture rtl of DFFregister
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/tb/SOPunitTB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity SOPunitTB
+-- Compiling architecture test of SOPunitTB
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronTB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity PerceptronTB
+-- Compiling architecture test of PerceptronTB
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/tb/PerceptronWrapperTB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity PerceptronWrapperTB
+-- Compiling architecture test of PerceptronWrapperTB
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/WeightRegisters.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utils
+-- Compiling entity WeightRegisters
+-- Compiling architecture rtl of WeightRegisters
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/utils.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package utils
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/AFunit.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package utils
+-- Compiling entity AFunit
+-- Compiling architecture rtl of AFunit
+
+} {} {}} {C:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/susin/Desktop/VHDL project/VHDL/src/InputRegisters.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package utils
+-- Compiling entity InputRegisters
+-- Compiling architecture rtl of InputRegisters
+
+} {} {}}
