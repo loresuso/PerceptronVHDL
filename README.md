@@ -5,4 +5,6 @@
  
  _Computer Engineering - Electronics and Communication Systems_
  
+**_Please read requirements.pdf and documentation.pdf_**
+ 
  Lorenzo Susini
